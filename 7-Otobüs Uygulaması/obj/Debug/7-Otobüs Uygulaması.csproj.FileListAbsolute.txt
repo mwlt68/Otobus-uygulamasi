@@ -1,0 +1,16 @@
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\bin\Debug\7-Otobüs Uygulaması.exe.config
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\bin\Debug\7-Otobüs Uygulaması.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\bin\Debug\7-Otobüs Uygulaması.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\obj\Debug\7-Otobüs Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\obj\Debug\_7_Otobüs_Uygulaması.Form1.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\obj\Debug\_7_Otobüs_Uygulaması.Form2.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\obj\Debug\_7_Otobüs_Uygulaması.Form3.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\obj\Debug\_7_Otobüs_Uygulaması.Properties.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\obj\Debug\7-Otobüs Uygulaması.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\obj\Debug\7-Otobüs Uygulaması.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\obj\Debug\7-Otobüs Uygulaması.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\C# çalışmalarım\7-Otobüs Uygulaması\7-Otobüs Uygulaması\obj\Debug\7-Otobüs Uygulaması.csproj.ResolveComReference.cache
